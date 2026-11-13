@@ -1,7 +1,11 @@
 # NATB Issue 追踪
 
+> [!IMPORTANT]
 > **本仓库不存放任何源码，仅用于收集与追踪 issue。**
-> 源码与官网分别在 [natb-website](https://github.com/Mengmiya1027/natb-website) 与 NATB-Cli 主仓库，请不要在这里提交代码。
+> 源码与官网在 [natb-website](https://github.com/Mengmiya1027/natb-website)，请不要在这里提交代码。
+
+> [!NOTE]
+> 本 README 由 **DeepSeek-V4.1-Flash** 生成，内容基于 NATB 官网 Issue 页的实际能力整理。
 
 这里是 [NATB（小天才手表 ADB 工具箱）](https://natb.top) 的问题反馈与功能建议入口。
 
